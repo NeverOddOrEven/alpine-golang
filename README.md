@@ -1,3 +1,8 @@
-# Alpine NodeJS Docker Image
+# Alpine Golang Docker Image
 
-Adds gulp and jspm 
+## Contents
+- make 
+- git 
+- zip 
+- bash 
+- tar
