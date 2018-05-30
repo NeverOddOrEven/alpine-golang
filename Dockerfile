@@ -1,3 +1,3 @@
-FROM golang:1.8-alpine
+FROM golang:1.9-alpine
 
 RUN apk add --no-cache make git zip bash tar
